@@ -1,3 +1,4 @@
+package domain;
 public class OrderPolicy {
     public OrderStatus move(OrderStatus current, OrderStatus target) {
         if (current == OrderStatus.DRAFT && target == OrderStatus.PAID) {

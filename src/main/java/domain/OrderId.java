@@ -1,3 +1,4 @@
+package domain;
 public record OrderId(String value) {
     public OrderId {
         if (value == null || value.isBlank()) {

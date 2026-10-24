@@ -1,3 +1,10 @@
-C:\Users\Beknur\Desktop\corp-lab1\src\main\java\OrderId.java
-C:\Users\Beknur\Desktop\corp-lab1\src\main\java\OrderPolicy.java
-C:\Users\Beknur\Desktop\corp-lab1\src\main\java\OrderStatus.java
+C:\Users\Beknur\Desktop\corp-lab1\src\main\java\config\Application.java
+C:\Users\Beknur\Desktop\corp-lab1\src\main\java\domain\TransitionRule.java
+C:\Users\Beknur\Desktop\corp-lab1\src\main\java\domain\OrderId.java
+C:\Users\Beknur\Desktop\corp-lab1\src\main\java\domain\Rule.java
+C:\Users\Beknur\Desktop\corp-lab1\src\main\java\domain\DuplicateTicket.java
+C:\Users\Beknur\Desktop\corp-lab1\src\main\java\domain\OrderPolicy.java
+C:\Users\Beknur\Desktop\corp-lab1\src\main\java\domain\OrderStatus.java
+C:\Users\Beknur\Desktop\corp-lab1\src\main\java\persistence\TicketJdbc.java
+C:\Users\Beknur\Desktop\corp-lab1\src\main\java\domain\StopFactorRule.java
+C:\Users\Beknur\Desktop\corp-lab1\src\main\java\config\OrderService.java

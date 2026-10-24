@@ -1,3 +1,10 @@
-OrderId.class
-OrderPolicy.class
-OrderStatus.class
+domain\OrderId.class
+config\Application.class
+domain\Rule.class
+config\OrderService.class
+domain\OrderPolicy.class
+domain\DuplicateTicket.class
+domain\StopFactorRule.class
+persistence\TicketJdbc.class
+domain\OrderStatus.class
+domain\TransitionRule.class
